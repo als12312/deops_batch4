@@ -5,3 +5,6 @@ git remote -v
 git pull
 git fetch
 git push
+git push --add origin main 
+git pull --add origin main
+
